@@ -4,9 +4,7 @@
 🐓 I'm french and I like coding.
 <br/>🎮 Actually learning how to use Unreal Engine.
 
-[![](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,cs&theme=dark)](https://github.com/Cbrra)
-[![](https://skillicons.dev/icons?i=nextjs,react,electron,bootstrap,mongodb&theme=dark)](https://github.com/Cbrra)
-[![](https://skillicons.dev/icons?i=vscode,visualstudio,unity,unreal,git,blender&theme=dark)](https://github.com/Cbrra)
+[![](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,cs,git,nextjs,react,electron,bootstrap,mongodb,vscode,visualstudio,unity,unreal,blender&theme=dark&perline=6)](https://github.com/Cbrra)
 
 # ⚡ GitHub Stats
 <!-- Github Stats  -->
