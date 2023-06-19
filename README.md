@@ -8,10 +8,10 @@
 [![](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,cs&theme=dark)](https://github.com/Cbrra)
 
 ## 🧩 Frameworks/Databases
-[![](https://skillicons.dev/icons?i=git,nextjs,react,electron,bootstrap,mongodb&theme=dark)](https://github.com/Cbrra)
+[![](https://skillicons.dev/icons?i=nextjs,react,electron,tailwind,bootstrap,mongodb&theme=dark)](https://github.com/Cbrra)
 
 ## 💻 Apps
-[![](https://skillicons.dev/icons?i=vscode,visualstudio,unity,unreal,blender&theme=dark)](https://github.com/Cbrra)
+[![](https://skillicons.dev/icons?i=git,vscode,visualstudio,unity,unreal,blender&theme=dark)](https://github.com/Cbrra)
 
 ## ⚡ GitHub Stats
 <!-- Github Stats  -->
