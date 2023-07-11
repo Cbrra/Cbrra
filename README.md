@@ -2,7 +2,7 @@
 
 <!-- Intro -->
 🐓 I'm french and I like coding.
-<br/>🎮 Actually learning how to use Unreal Engine.
+<br/>🎮 Actually learning Unreal Engine.
 
 ## 🛠 Programming Languages
 [![](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,cs&theme=dark)](https://github.com/Cbrra)
