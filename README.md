@@ -4,6 +4,8 @@
 🐓 I'm french and I like coding.
 <br/>🎮 Actually learning Unreal Engine.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbrra&label=Profile%20views&color=0e75b6&style=flat" alt="d3v1l0m3n" /> </p>
+
 ## 🛠 Programming Languages
 [![](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,cs&theme=dark)](https://github.com/Cbrra)
 
