@@ -1,23 +1,23 @@
-## Hello there 👋
+## Hello there! 👋
+🐓 I'm **Cobra**, a French fullstack developer. I love coding and I'm currently working on several projects.
 
-<!-- Intro -->
-🐓 I'm french and I like coding.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbrra&label=Profile%20views&color=007afc&style=flat" alt="d3v1l0m3n" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbrra&label=Profile%20views&color=0e75b6&style=flat" alt="d3v1l0m3n" /> </p>
+## ✏️ Programming languages
 
-## 🛠 Programming Languages
-[![](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,cs&theme=dark)](https://github.com/Cbrra)
+<a href="#">[![](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,rust,cs&theme=dark)](https://github.com/Cbrra)</a>
 
-## 🧩 Frameworks/Databases
-[![](https://skillicons.dev/icons?i=nextjs,react,electron,tailwind,bootstrap,mongodb&theme=dark)](https://github.com/Cbrra)
+## 🐧 Tools
+
+<a href="#">[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,vitest,discordjs,bootstrap,mongodb&theme=dark)](https://github.com/Cbrra)</a>
+<br/><a href="#">[![](https://skillicons.dev/icons?i=git,linux,cloudflare,sentry,docker,arduino,electron,tauri&theme=dark)](https://github.com/Cbrra)</a>
 
 ## 💻 Apps
-[![](https://skillicons.dev/icons?i=git,vscode,visualstudio,unity,unreal,blender&theme=dark)](https://github.com/Cbrra)
 
-## ⚡ GitHub Stats
-<!-- Github Stats  -->
-<div align="center">
-  <img width="47%" height="215px" src="https://github-readme-stats.vercel.app/api?username=Cbrra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Cbrra's Github Stats">
-  <img width="47%" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbrra&layout=compact&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cbrra&theme=tokyonight&count_private=true" alt="Cbrra" />
-</div>
+<a href="#">[![](https://skillicons.dev/icons?i=github,vscode,visualstudio,unity,unreal,blender,discord&theme=dark)](https://github.com/Cbrra)</a>
+
+## ⚡ GitHub & WakaTime Stats
+
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=cbrra&theme=blueberry&show_icons=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbrra&exclude_repo=game-of-life&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![WakaTime](https://github-readme-stats.vercel.app/api/wakatime/?username=cbrra&theme=blueberry&layout=compact&hide_border=true&langs_count=6)</a>
