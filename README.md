@@ -1,7 +1,7 @@
 ## Hello there! 👋
-🐓 I'm **Cobra**, a French fullstack developer. I love coding and I'm currently working on [several projects](https://github.com/sodium-labs).
+🐓 I'm **Cobra**, a French Computer Science student. I love coding and I'm currently working on [several projects](https://github.com/sodium-labs).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbrra&label=Profile%20views&color=007afc&style=flat" alt="d3v1l0m3n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbrra&label=Profile%20views&color=007afc&style=flat" alt="Profile views" /> </p>
 
 ## ✏️ Languages
 
