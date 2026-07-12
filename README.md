@@ -1,5 +1,5 @@
 ## Hello there! 👋
-🐓 I'm **Cobra**, a French Computer Science student. I love coding and I'm currently working on [several projects](https://github.com/voctal).
+🐓 I'm **Cobra**, a French Computer Science student. I love coding and I'm currently working on several projects across both of my organizations: [Voctal](https://github.com/voctal) & [Orion Hosting](https://github.com/orionhosting).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbrra&label=Profile%20views&color=007afc&style=flat" alt="Profile views" /> </p>
 
