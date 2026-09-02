@@ -9,8 +9,8 @@
 
 ## 🐧 Tools
 
-<a href="#">[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,vitest,discordjs,nodejs,mongodb&theme=dark)](https://github.com/Cbrra)</a>
-<br/><a href="#">[![](https://skillicons.dev/icons?i=git,linux,cloudflare,wasm,docker,arduino,electron,tauri&theme=dark)](https://github.com/Cbrra)</a>
+<a href="#">[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,vitest,discordjs,nodejs,mongodb,postgres&theme=dark)](https://github.com/Cbrra)</a>
+<br/><a href="#">[![](https://skillicons.dev/icons?i=linux,cloudflare,git,wasm,docker,arduino,bevy,electron,tauri&theme=dark)](https://github.com/Cbrra)</a>
 
 ## 💻 Apps
 
